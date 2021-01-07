@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: Thomas Tendron
 description: blabla
+github:
+  is_project_page: false
