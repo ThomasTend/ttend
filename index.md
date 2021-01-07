@@ -8,7 +8,7 @@ I am mainly interested in probability theory and related partial differential eq
 
 ### Full CV
 
-![CV](./doc/CV - Thomas Tendron.pdf) 
+[CV](./doc/CV - Thomas Tendron.pdf) 
 
 
 
