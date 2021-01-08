@@ -3,4 +3,5 @@ github:
   is_project_page: false
 plugins:
   - jekyll-seo-tag
-title: Thomas Tendron {% seo %}
+title: Thomas Tendron
+keywords: Thomas Tendron, maths, math, mathematics, CDT, random systems, Oxford, McGill
