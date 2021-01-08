@@ -2,3 +2,4 @@ theme: jekyll-theme-minimal
 github:
   is_project_page: false
 title: Thomas Tendron
+email: firstname dot lastname @ univ dot ox dot ac dot uk
