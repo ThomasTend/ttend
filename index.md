@@ -8,6 +8,10 @@ For a full curriculum vitae, see [cv](./doc/CV - Thomas Tendron.pdf){:target="_b
 
 1. L. Addario-Berry, J. Lin, T. Tendron, (2020) Barycentric Brownian Bees, submitted, [arxiv](https://arxiv.org/abs/2006.04743)
 
+### Contact
+
+Email: firstname dot lastname @ univ dot ox dot ac dot uk
+
 
 
 
